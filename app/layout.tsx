@@ -2,14 +2,12 @@ import type React from "react";
 import "./globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import visitorTracker from "./visitorTracker";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "INBIO - Personal Portfolio",
-  description: "Personal Portfolio Template",
-  generator: "v0.dev",
+  title: "Portfolio",
+  description: "Portfolio of Shaker",
 };
 
 export default function RootLayout({

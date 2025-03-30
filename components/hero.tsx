@@ -47,9 +47,9 @@ export default function Hero() {
           WELCOME TO MY WORLD
         </p>
 
-        <h1 className="text-3xl md:text-5xl lg:text-5xl font-bold mb-4">
+        <h1 className="text-3xl md:text-5xl lg:text-5xl font-bold mb-1">
           Hi, I'm <span className="text-[#ff014f]">Shaker Farooq</span>
-          <span className=" block mt-3">I'm a</span>
+          <span className=" block mt-1">I'm a</span>
         </h1>
 
         <h2 className="text-3xl md:text-4xl font-bold mb-6 h-12">
